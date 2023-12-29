@@ -1,7 +1,8 @@
 <img align="left" width="350" src="https://github.com/Reyy01/Reyy01/blob/main/pickachushiny.gif">
-<br>
-<br>
-<br>
+<samp>
+<samp>
+<samp>
+<samp>
 <img align="left" width="350" src="https://github.com/Reyy01/Reyy01/blob/main/pokemon.gif"></a><br><samp>
 <!--
 **Reyy01/Reyy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
